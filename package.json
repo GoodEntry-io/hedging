@@ -1,0 +1,24 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listen_good_events.js",
+  "dependencies": {
+    "@adraffy/ens-normalize": "^1.9.0",
+    "alchemy-sdk": "^2.9.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "greeks": "^1.0.0",
+    "save": "^2.9.0",
+    "semaphore": "^1.1.0",
+    "simple-json-db": "^2.0.0",
+    "ws": "^8.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
